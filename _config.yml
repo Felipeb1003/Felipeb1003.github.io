@@ -1,11 +1,11 @@
 # Site settings
 author: Felipe Beltran
-title: 
+title: New beginnings in the World of Technology!
 header-img: img/home-bg.png
 email: felipebeltran.nyc@gmail.com
 copyright_name: Felipe Beltran
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Challenges of a Code Newbie
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: FelipeBelieving
 github_username:  Felipeb1003
